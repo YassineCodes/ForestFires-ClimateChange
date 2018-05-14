@@ -60,10 +60,13 @@ Results discussion of scenario 1:4 can be found in:
 Forest fires:
 
 Scenario 1 - We run the model with 75% of fire intensity on a world without CO2 emitters
+
 Scenario 2 - We run the model with 75% of fire intensity on a world with CO2 emitters.
+
 Scenario 3 - We enable the natural rain fall during one of the above scenarios.
 
 The results of Scenario 1:2 will demonstrate how the global warming affects the behavior of forest fire.
+
 In scenario 3, the rain will cools off the burnt trees.
 
 ## THINGS TO NOTICE
