@@ -94,6 +94,12 @@ Baghoussi, Y. Campos, P. and Rossetti, R., "An agent-based model of the Earth sy
 
 This new model builds on an earlier version created in 2016 by Yassine Baghoussi for the Smart Cities Conference (ISC2), 2016 IEEE International.
 
+## SOFTWARE
+
+NetLogo software 6.0.3
+
+https://ccl.northwestern.edu/netlogo
+
 ## HOW TO CITE
 
 If you mention this model in a publication, we ask that you include these citations for the model itself and for the NetLogo software:
